@@ -1,1 +1,2 @@
 # Lunea
+Lunéa est une application dédiée au suivi de la ménopause et du bien-être féminin. Elle permet aux utilisatrices de suivre leurs symptômes, leurs habitudes quotidiennes et d’identifier des schémas pour mieux comprendre leur corps. L’objectif est d’offrir un outil de suivi personnalisé, capable d’aider les femmes à mieux vivre cette période grâce à des données, des analyses et des conseils adaptés.
